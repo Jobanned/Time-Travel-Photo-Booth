@@ -1,0 +1,6 @@
+{
+  "name": "Time-Travel Photo Booth",
+  "description": "Snap a selfie and journey through time! Rent a body in Ancient Egypt, Roman arenas, Renaissance salons, or the cosmic future using our twin-engine AI portraits and physical face-graft canvas.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
